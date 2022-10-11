@@ -166,12 +166,6 @@ http:
     - ^https?:\/\/api\.bjxkhc\.com\/index\.php\/app\/ios\/ads\/ - reject
 
     # B
-    # > ByteDance
-    - ^https?:\/\/[\w-]+\.(amemv|musical|snssdk|tiktokv)\.(com|ly)\/(api|motor)\/ad\/ - reject
-    - ^https?:\/\/[\w-]+\.amemv\.com\/aweme\/v\d\/ad\/ - reject
-    - ^https?:\/\/[\w-]+\.snssdk\.com\/.+_ad\/ - reject
-    - ^https?:\/\/[\w-]+\.snssdk\.com\/motor\/operation\/activity\/display\/config\/V2\/ - reject
-    - ^https?:\/\/.+?\/img\/ad\.union\.api\/ - reject
     # ---(Baidu)---
     # > Baidu NetDisk - issuecdn.baidupcs.com
     - ^https?:\/\/pan\.baidu\.com\/rest\/\d\.\d\/pcs\/adx - reject
