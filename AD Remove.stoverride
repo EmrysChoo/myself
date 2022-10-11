@@ -1,5 +1,5 @@
-name: 重写去广告
-desc: 根据神机重写去广告修改
+name: 自用去广告
+desc: 抄来的
 
 http:
   force-http-engine:
