@@ -7,7 +7,6 @@ http:
     - "intl.iqiyi.com"
     - "maicai.api.ddxq.mobi"
     - "mobileapi-v6.elong.com"
-    - "weibointl.api.weibo.cn"
     - "wmapi.meituan.com"
     
   mitm:
@@ -94,9 +93,6 @@ http:
     - "media.qyer.com"
     - "api.qbb6.com"
     - "magev6.if.qidian.com"
-    - "*.uve.weibo.com"
-    - "weibointl.api.weibo.cn"
-    - "tqt.weibo.cn"
     - "*.k.sohu.com"
     - "*.tv.sohu.com"
     - "ap*.smzdm.com"
@@ -427,16 +423,6 @@ http:
     - ^https?:\/\/api\.rr\.tv\/ad\/ - reject
 
     # S
-    # ---(Sina)---
-    # > Weibo - *.uve.weibo.com,weibointl.api.weibo.cn
-    # ^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/(actionad|sdkad)\.php - reject
-    # ^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua - reject
-    - ^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads - reject
-    # > tianqitong - tqt.weibo.cn
-    - ^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=tqtad - reject
-    - ^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?.+?tqt_sdkad - reject
-    - ^https?:\/\/tqt\.weibo\.cn\/.+advert\.index - reject
-    - ^https?:\/\/tqt\.weibo\.cn\/api\/advert\/ - reject
     # ---
     # > SOHU - *.k.sohu.com,*.tv.sohu.com
     - ^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense - reject
