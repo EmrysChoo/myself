@@ -5,7 +5,6 @@ http:
   mitm:
     - "capis.didapinche.com"
     - "capis*.didapinche.com"
-    - "app.bilibili.com"
     - "wmapi.meituan.com"
     - "hd.mina.mi.com"
     - "api.m.jd.com"
