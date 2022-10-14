@@ -120,8 +120,6 @@ http:
     - "101.201.175.228"
     - "www.xiaohongshu.com"
     - "api.yizhibo.com"
-    - "www.zhihu.com"
-    - "api.zhihu.com"
     - "a.qiumibao.com"
     - "*.zhuishushenqi.com"
     - "syh.zybang.com"
@@ -515,13 +513,6 @@ http:
     - ^https?:\/\/api\.yizhibo\.com\/common\/api\/(api_)?pz$ - reject
 
     # Z
-    # > Zhihu - www.zhihu.com,api.zhihu.com,103.41.167.*
-    - ^https?:\/\/.+?\/commercial_api\/ - reject
-    - ^https?:\/\/api\.zhihu\.com\/fringe\/ad - reject
-    - ^https?:\/\/api\.zhihu\.com\/ad - reject
-    - ^https?:\/\/api\.zhihu\.com\/appview\/api\/v\d\/answers\/\d+\/recommendations - reject
-    - ^https?:\/\/api\.zhihu\.com\/\w+\/\d+\/comments\/featured-comment-ad - reject
-    - ^https?:\/\/www\.zhihu\.com\/api\/v\d\/answers/\d+/recommendations - reject
     # > Zhibo8 - a.qiumibao.com
     - ^https?:\/\/a\.qiumibao\.com\/activities\/config\.php - reject
     - ^https?:\/\/.+?\/allOne\.php\?ad_name - reject
