@@ -106,7 +106,6 @@ http:
     - "4gimg.map.qq.com"
     - "r.inews.qq.com"
     - "news.ssp.qq.com"
-    - "mp.weixin.qq.com"
     - "m.tuniu.com,img*.10101111cdn.com"
     - "msg.umengcloud.com"
     - "api.vuevideo.net"
