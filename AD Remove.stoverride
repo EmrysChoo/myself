@@ -118,7 +118,6 @@ http:
     - "promo.xueqiu.com"
     - "182.92.251.113"
     - "101.201.175.228"
-    - "www.xiaohongshu.com"
     - "api.yizhibo.com"
     - "a.qiumibao.com"
     - "*.zhuishushenqi.com"
@@ -502,9 +501,6 @@ http:
     - ^https?:\/\/(api|promo)\.xueqiu\.com\/promotion\/(display_cache|display_ad|feed_display|search_ad) - reject
     - ^https?:\/\/.+?\/brand\/search\/v1\.json - reject
     - ^https?:\/\/api\.xueqiu\.com\/brand\/search\/v1\.json - reject
-    # > Xiaohongshu - www.xiaohongshu.com
-    - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject
-    - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ - reject
 
     # Y
     # > YinxiangNote - app.yinxiang.com
