@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1综合
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1综合
 http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1综合
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1综合
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1综合
 https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视",CCTV1综合
 http://139.9.188.172:5678/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="央视",CCTV-2 财经
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -49,8 +49,6 @@ http://live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="央视",CCTV-4 中文国际
 https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="央视",CCTV-4K
-https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="央视",CCTV-4 中文国际
 https://live.v1.mk/api/ghyx.php?id=CCTV4HD_6000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="央视",CCTV-4 中文国际
@@ -235,6 +233,8 @@ https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000/mnf.m3u8
 https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="央视",CCTV-17 农业农村
 http://139.9.188.172:5678/sxg.php?id=CCTV-17_4000
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="央视",CCTV-4K
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV兵器科教
 http://139.9.188.172:5678/sxg.php?id=bqkj_4000
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvfengyunyinyue.png" group-title="央视",CCTV风云音乐
@@ -743,10 +743,10 @@ https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000/mnf.m3u8
 http://139.9.188.172:5678/sxg.php?id=zhms_4000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",足球高清
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="金庸武侠" tvg-name="金庸武侠" tvg-logo="https://epg.112114.xyz/logo/金庸武侠.png" group-title="轮播",金庸武侠
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
 #EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="轮播",m1905
 http://111.177.34.98/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1,tvg-id="金庸武侠" tvg-name="金庸武侠" tvg-logo="https://epg.112114.xyz/logo/金庸武侠.png" group-title="轮播",金庸武侠
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
 #EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="轮播",林正英
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
 #EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="轮播",林正英
